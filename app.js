@@ -34,7 +34,7 @@ function promptUser(){
         {
             type: "number",
             name: "id",
-            message: "Enter Employee ID"
+            message: "Enter Employee ID#"
         },
         {
             type: "input",
@@ -64,7 +64,7 @@ function addManager(employeeInfo){
     employeeInfo.push({
         type: "input",
         name: "officeNumber",
-        message: "Enter Manger Team Office Number"
+        message: "Enter Team Office #"
     })
     inquirer
     .prompt(employeeInfo).then(answer =>{
