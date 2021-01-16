@@ -64,7 +64,7 @@ function addManager(employeeInfo){
     employeeInfo.push({
         type: "input",
         name: "officeNumber",
-        message: "Enter Manger office number"
+        message: "Enter Manger Team Office Number"
     })
     inquirer
     .prompt(employeeInfo).then(answer =>{
