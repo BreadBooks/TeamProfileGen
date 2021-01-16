@@ -4,6 +4,7 @@ Create a team profile for your employees to easily see roles, office numbers, em
 
 ![Preview](./images/preview.png)
 
+Watch the video walk through [here.](https://youtu.be/NgZ6lDaVX40)
 ## Table of Contents
 * [Title](#title)
 * [Description](#description)
