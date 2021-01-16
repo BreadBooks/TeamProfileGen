@@ -2,7 +2,7 @@
 ## Description
 Create a team profile for your employees to easily see roles, office numbers, emails & more. 
 
-![Preview](/images/Preview.png)
+![Preview](./images/preview.png)
 
 ## Table of Contents
 * [Title](#title)
