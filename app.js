@@ -1,4 +1,7 @@
+const Intern = require("./lib/Intern");
 const Engineer = require("./lib/Engineer");
+const Manager = require("./lib/Manager");
+
 
 const inquirer = require("inquirer");
 const path = require("path");
@@ -17,7 +20,7 @@ const quesitonsArray = [
         type: "list",
         name: "role",
         message: "Select the role of the employee",
-        choices: ["Manager", "Engineer", "Intern"]
+        choices: ["Manager", "Engineer", "Intern","Create my Team!"]
     }
 ]
 
